@@ -42,6 +42,5 @@
 ### 팀 소개
 |개발(FE)|개발(FE/BE)|UI/UX 디자인|
 |------|---|---|
+|<img src="https://github.com/user-attachments/assets/5e8d5c9e-fadf-47bb-ac97-a190b376a835" width="200"/>|<img src="https://github.com/user-attachments/assets/42c77f67-5bd7-415f-a41f-24cf2c3e162a" width="200"/>||
 |이현경|신상우|이수연|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
